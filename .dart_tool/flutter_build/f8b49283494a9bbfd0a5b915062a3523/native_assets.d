@@ -1,0 +1,1 @@
+ /home/pavlitarxis/flutter_projects/coincap/coincap/.dart_tool/flutter_build/f8b49283494a9bbfd0a5b915062a3523/native_assets.yaml: 
