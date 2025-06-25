@@ -32,7 +32,7 @@
 ### Steps
 
 ```bash
-git clone https://github.com/your-username/coincap.git
+git clone https://github.com/pavlitoss/coincap.git
 cd coincap
 flutter pub get
 flutter run
